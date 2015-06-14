@@ -28,6 +28,7 @@ the date variable into a date object.
 
 rawData$date <- as.Date(rawData$date, format="%Y-%m-%d")
 
+
 ```
 
 **What is mean total number of steps taken per day?**
